@@ -4,3 +4,20 @@ body {
 a {
   color: #9670f4;
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App header {
+  padding: 60px 0 100px;
+}
+.App footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.App a {
+  color: #6c63ff;
+}
